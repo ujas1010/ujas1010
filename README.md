@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi, I'm Ujas Darji 👋</h1>
 
 <h3 align="center">
@@ -147,4 +147,4 @@ Computer Engineering Student | Software Developer | Gujarat Technological Univer
 ✨ Keep Learning • Keep Building • Keep Growing ✨
 
 </h3>
-```
+
