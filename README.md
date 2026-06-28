@@ -106,7 +106,6 @@ Computer Engineering Student | Software Developer | Gujarat Technological Univer
 
 ---
 
-# 🏆 GitHub Trophies
 
 # 📜 Certifications
 
