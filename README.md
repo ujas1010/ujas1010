@@ -108,18 +108,6 @@ Computer Engineering Student | Software Developer | Gujarat Technological Univer
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ujas1010&theme=onestar&no-frame=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
-</p>
-
----
-
 # 📜 Certifications
 
 - Oracle Certification — Oracle
